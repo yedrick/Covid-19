@@ -1,0 +1,124 @@
+{
+	"response_code": 0,
+	"results": [{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "¿Quién estuvo 3 días y tres noches en el vientre de un pez?",
+			"correct_answer": "Jonás",
+			"incorrect_answers": [
+				"Sofonías",
+				"Arquelao",
+				"Mateo"
+			]
+		},
+		{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "¿Qué hecho convirtió a David en héroe para Israel?",
+			"correct_answer": "Su victoria sobre Goliat",
+			"incorrect_answers": [
+				"Sus poesías",
+				"Su victoria sobre los babilonios",
+				"Su victoria sobre Jericó"
+			]
+		},
+		{
+			"category": "Biblicasc",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "¿Quién fue arrojado al foso de los leones y salió intacto de ahí?",
+			"correct_answer": "Daniel",
+			"incorrect_answers": [
+				"Juan Bautista",
+				"Moisés",
+				"Pablo"
+			]
+		},
+		{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "¿Hijo de Abraham que estuvo a punto de ser sacrificado?",
+			"correct_answer": "Isaac",
+			"incorrect_answers": [
+				"Esaú",
+				"Jonás",
+				"José"
+			]
+		},
+		{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Apóstol que había sido cobrador de impuestos para Roma.",
+			"correct_answer": "Mateo",
+			"incorrect_answers": [
+				"Isaías",
+				"Eliseo",
+				"Apolo"
+			]
+		},
+		{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Primer hijo de Adán y Eva",
+			"correct_answer": "Caín",
+			"incorrect_answers": [
+				"Judas Macabeo",
+				"Daniel",
+				"Ananías"
+			]
+		},
+		{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "¿Cuál era el nombre de Abraham antes de su Alianza con Dios?",
+			"correct_answer": "Abram",
+			"incorrect_answers": [
+				"Aarón",
+				"Israel",
+				"Jacob"
+			]
+		},
+		{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Primer rey de Israel.",
+			"correct_answer": "Saúl",
+			"incorrect_answers": [
+				"David",
+				"Abimélec",
+				"Nahas"
+			]
+		},
+		{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Hijo de Abraham y de Agar",
+			"correct_answer": "Ismael",
+			"incorrect_answers": [
+				"Jacob",
+				"José",
+				"Jacob"
+			]
+		},
+		{
+			"category": "Biblicas",
+			"type": "multiple",
+			"difficulty": "easy",
+			"question": "Tercer hijo de Adán.",
+			"correct_answer": "Set",
+			"incorrect_answers": [
+				"Enós",
+				"Cainán",
+				"Mahalalel"
+			]
+		}
+	]
+}
